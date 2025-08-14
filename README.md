@@ -23,4 +23,4 @@ This repository contains my learning journey of Python's Object-Oriented Program
 - [ ] Small OOP-based projects
 
 ## ✍ Author
-Abdullah Khan – [LinkedIn]([https://www.linkedin.com/in/abdullah-khan-8376b4369/]) | [GitHub]([https://github.com/khan-abdullah-aidev/])
+Abdullah Khan – [LinkedIn](https://www.linkedin.com/in/abdullah-khan-8376b4369/) | [GitHub](https://github.com/khan-abdullah-aidev/)
