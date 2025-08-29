@@ -17,8 +17,8 @@ This repository contains my learning journey of Python's Object-Oriented Program
 - [x] Basics
 - [x] Encapsulation
 - [x] Inheritance
-- [ ] Polymorphism
-- [ ] Abstraction
+- [x] Polymorphism
+- [x] Abstraction
 - [ ] Advanced OOP concepts
 - [ ] Small OOP-based projects
 
